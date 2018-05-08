@@ -1,7 +1,7 @@
 ---
 title           : Tony Richards
 type            : participant
-job_title       : CTO
+job_title       : CISO
 company         : Securestorm Ltd
 travel-from     : London
 image           : https://pbs.twimg.com/profile_images/948908456450379777/1KF4KsBw_400x400.jpg
@@ -9,7 +9,7 @@ linkedin        : tonyrichardsclas
 twitter         : _tony_richards
 facebook        :
 website         :
-email           :
+email           : tony@securestorm.com
 project_leader  :
 chapter_leader  :
 regonline       :
