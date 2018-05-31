@@ -17,17 +17,19 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
-  - AWS Lambda Security
+  - Create Hardley Maps for multiple security scenarios
   - Agile Practices for Security Teams
-  - CISO
   - Creating a standard for GDPR patterns
-  - Creation of Security Buttons
-  - DPO how to become one
-  - DPO what to expect
   - Getting more women in Cyber-security
   - A seat at the table
   - Hands-on GDPR Patterns
+  - Create AWS Security Questions
+  - Using graphs for GDPR mappings and visualisations
   - Using Threat Models for GDPR
+  - OWASP Collective Defence Cluster (CDC) - One year on
+  - Cyber Risk Modeling
+  - How to Threat Model Features with Questionnaires
+  - Threat model cheat sheets
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
